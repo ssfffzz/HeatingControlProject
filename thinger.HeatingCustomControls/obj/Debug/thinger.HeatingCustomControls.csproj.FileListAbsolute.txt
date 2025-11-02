@@ -1,0 +1,12 @@
+D:\【新阁教育全3册课程资料V7.0612】CSharp上位机与通信实战\练习程序\thinger.HeatingControlProject\thinger.HeatingCustomControls\bin\Debug\thinger.HeatingCustomControls.dll
+D:\【新阁教育全3册课程资料V7.0612】CSharp上位机与通信实战\练习程序\thinger.HeatingControlProject\thinger.HeatingCustomControls\bin\Debug\thinger.HeatingCustomControls.pdb
+D:\【新阁教育全3册课程资料V7.0612】CSharp上位机与通信实战\练习程序\thinger.HeatingControlProject\thinger.HeatingCustomControls\bin\Debug\thinger.CommonControlLib.dll
+D:\【新阁教育全3册课程资料V7.0612】CSharp上位机与通信实战\练习程序\thinger.HeatingControlProject\thinger.HeatingCustomControls\obj\Debug\thinger.HeatingCustomControls.csproj.AssemblyReference.cache
+D:\【新阁教育全3册课程资料V7.0612】CSharp上位机与通信实战\练习程序\thinger.HeatingControlProject\thinger.HeatingCustomControls\obj\Debug\thinger.HeatingCustomControls.Properties.Resources.resources
+D:\【新阁教育全3册课程资料V7.0612】CSharp上位机与通信实战\练习程序\thinger.HeatingControlProject\thinger.HeatingCustomControls\obj\Debug\thinger.HeatingCustomControls.ThingerHCBoiler.resources
+D:\【新阁教育全3册课程资料V7.0612】CSharp上位机与通信实战\练习程序\thinger.HeatingControlProject\thinger.HeatingCustomControls\obj\Debug\thinger.HeatingCustomControls.ThingerHCValve.resources
+D:\【新阁教育全3册课程资料V7.0612】CSharp上位机与通信实战\练习程序\thinger.HeatingControlProject\thinger.HeatingCustomControls\obj\Debug\thinger.HeatingCustomControls.csproj.GenerateResource.cache
+D:\【新阁教育全3册课程资料V7.0612】CSharp上位机与通信实战\练习程序\thinger.HeatingControlProject\thinger.HeatingCustomControls\obj\Debug\thinger.HeatingCustomControls.csproj.CoreCompileInputs.cache
+D:\【新阁教育全3册课程资料V7.0612】CSharp上位机与通信实战\练习程序\thinger.HeatingControlProject\thinger.HeatingCustomControls\obj\Debug\thinger.HeatingCustomControls.csproj.CopyComplete
+D:\【新阁教育全3册课程资料V7.0612】CSharp上位机与通信实战\练习程序\thinger.HeatingControlProject\thinger.HeatingCustomControls\obj\Debug\thinger.HeatingCustomControls.dll
+D:\【新阁教育全3册课程资料V7.0612】CSharp上位机与通信实战\练习程序\thinger.HeatingControlProject\thinger.HeatingCustomControls\obj\Debug\thinger.HeatingCustomControls.pdb
