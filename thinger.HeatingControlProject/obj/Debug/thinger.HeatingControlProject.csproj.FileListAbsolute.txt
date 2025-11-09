@@ -29,3 +29,34 @@ D:\【新阁教育全3册课程资料V7.0612】CSharp上位机与通信实战\�
 D:\【新阁教育全3册课程资料V7.0612】CSharp上位机与通信实战\练习程序\thinger.HeatingControlProject\thinger.HeatingControlProject\obj\Debug\thinger.HeatingControlProject.pdb
 D:\【新阁教育全3册课程资料V7.0612】CSharp上位机与通信实战\练习程序\thinger.HeatingControlProject\thinger.HeatingControlProject\obj\Debug\thinger.HeatingControlProject.FrmUserManage.resources
 D:\【新阁教育全3册课程资料V7.0612】CSharp上位机与通信实战\练习程序\thinger.HeatingControlProject\thinger.HeatingControlProject\obj\Debug\thinger.HeatingControlProject.FrmHistoryQuery.resources
+C:\Users\yl\Desktop\C#初阶内容\thinger.HeatingControlProject\thinger.HeatingControlProject\bin\Debug\thinger.HeatingControlProject.exe.config
+C:\Users\yl\Desktop\C#初阶内容\thinger.HeatingControlProject\thinger.HeatingControlProject\bin\Debug\thinger.HeatingControlProject.exe
+C:\Users\yl\Desktop\C#初阶内容\thinger.HeatingControlProject\thinger.HeatingControlProject\bin\Debug\thinger.HeatingControlProject.pdb
+C:\Users\yl\Desktop\C#初阶内容\thinger.HeatingControlProject\thinger.HeatingControlProject\bin\Debug\S7.Net.dll
+C:\Users\yl\Desktop\C#初阶内容\thinger.HeatingControlProject\thinger.HeatingControlProject\bin\Debug\System.Buffers.dll
+C:\Users\yl\Desktop\C#初阶内容\thinger.HeatingControlProject\thinger.HeatingControlProject\bin\Debug\System.Memory.dll
+C:\Users\yl\Desktop\C#初阶内容\thinger.HeatingControlProject\thinger.HeatingControlProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\yl\Desktop\C#初阶内容\thinger.HeatingControlProject\thinger.HeatingControlProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\yl\Desktop\C#初阶内容\thinger.HeatingControlProject\thinger.HeatingControlProject\bin\Debug\thinger.CommonControlLib.dll
+C:\Users\yl\Desktop\C#初阶内容\thinger.HeatingControlProject\thinger.HeatingControlProject\bin\Debug\thinger.DataConvertLib.dll
+C:\Users\yl\Desktop\C#初阶内容\thinger.HeatingControlProject\thinger.HeatingControlProject\bin\Debug\thinger.HeatingCustomControls.dll
+C:\Users\yl\Desktop\C#初阶内容\thinger.HeatingControlProject\thinger.HeatingControlProject\bin\Debug\thinger.HeatingCustomControls.pdb
+C:\Users\yl\Desktop\C#初阶内容\thinger.HeatingControlProject\thinger.HeatingControlProject\bin\Debug\S7.Net.xml
+C:\Users\yl\Desktop\C#初阶内容\thinger.HeatingControlProject\thinger.HeatingControlProject\bin\Debug\System.Buffers.xml
+C:\Users\yl\Desktop\C#初阶内容\thinger.HeatingControlProject\thinger.HeatingControlProject\bin\Debug\System.Memory.xml
+C:\Users\yl\Desktop\C#初阶内容\thinger.HeatingControlProject\thinger.HeatingControlProject\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\yl\Desktop\C#初阶内容\thinger.HeatingControlProject\thinger.HeatingControlProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\yl\Desktop\C#初阶内容\thinger.HeatingControlProject\thinger.HeatingControlProject\bin\Debug\thinger.DataConvertLib.xml
+C:\Users\yl\Desktop\C#初阶内容\thinger.HeatingControlProject\thinger.HeatingControlProject\obj\Debug\thinger.HeatingControlProject.csproj.AssemblyReference.cache
+C:\Users\yl\Desktop\C#初阶内容\thinger.HeatingControlProject\thinger.HeatingControlProject\obj\Debug\thinger.HeatingControlProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\yl\Desktop\C#初阶内容\thinger.HeatingControlProject\thinger.HeatingControlProject\obj\Debug\thinger.HeatingControlProject.FrmHistoryQuery.resources
+C:\Users\yl\Desktop\C#初阶内容\thinger.HeatingControlProject\thinger.HeatingControlProject\obj\Debug\thinger.HeatingControlProject.FrmMain.resources
+C:\Users\yl\Desktop\C#初阶内容\thinger.HeatingControlProject\thinger.HeatingControlProject\obj\Debug\thinger.HeatingControlProject.FrmParamSet.resources
+C:\Users\yl\Desktop\C#初阶内容\thinger.HeatingControlProject\thinger.HeatingControlProject\obj\Debug\thinger.HeatingControlProject.FrmLogin.resources
+C:\Users\yl\Desktop\C#初阶内容\thinger.HeatingControlProject\thinger.HeatingControlProject\obj\Debug\thinger.HeatingControlProject.FrmUserManage.resources
+C:\Users\yl\Desktop\C#初阶内容\thinger.HeatingControlProject\thinger.HeatingControlProject\obj\Debug\thinger.HeatingControlProject.Properties.Resources.resources
+C:\Users\yl\Desktop\C#初阶内容\thinger.HeatingControlProject\thinger.HeatingControlProject\obj\Debug\thinger.HeatingControlProject.csproj.GenerateResource.cache
+C:\Users\yl\Desktop\C#初阶内容\thinger.HeatingControlProject\thinger.HeatingControlProject\obj\Debug\thinger.HeatingControlProject.csproj.CoreCompileInputs.cache
+C:\Users\yl\Desktop\C#初阶内容\thinger.HeatingControlProject\thinger.HeatingControlProject\obj\Debug\thinger.HeatingControlProject.csproj.CopyComplete
+C:\Users\yl\Desktop\C#初阶内容\thinger.HeatingControlProject\thinger.HeatingControlProject\obj\Debug\thinger.HeatingControlProject.exe
+C:\Users\yl\Desktop\C#初阶内容\thinger.HeatingControlProject\thinger.HeatingControlProject\obj\Debug\thinger.HeatingControlProject.pdb

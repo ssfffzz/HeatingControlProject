@@ -60,7 +60,6 @@
             this.label25 = new System.Windows.Forms.Label();
             this.toggle_AddPump = new thinger.CommonControlLib.thingerToggleAdvance();
             this.label24 = new System.Windows.Forms.Label();
-            this.ct_boiler = new thinger.HeatingCustomControls.ThingerHCBoiler();
             this.label26 = new System.Windows.Forms.Label();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
@@ -118,8 +117,9 @@
             this.meter_PressureIn = new thinger.CommonControlLib.thingerAnalogMeter();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pump_CircleState = new thinger.CommonControlLib.thingerPump();
-            this.valve_OutState = new thinger.HeatingCustomControls.ThingerHCValve();
             this.ReadTimer = new System.Windows.Forms.Timer(this.components);
+            this.ct_boiler = new thinger.HeatingCustomControls.ThingerHCBoiler();
+            this.valve_OutState = new thinger.HeatingCustomControls.ThingerHCValve();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.panel6.SuspendLayout();
@@ -598,15 +598,6 @@
             this.label24.TabIndex = 3;
             this.label24.Text = "加水泵控制:";
             this.label24.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // ct_boiler
-            // 
-            this.ct_boiler.BoilerLevel = 0F;
-            this.ct_boiler.BoilerState = false;
-            this.ct_boiler.Location = new System.Drawing.Point(770, 6);
-            this.ct_boiler.Name = "ct_boiler";
-            this.ct_boiler.Size = new System.Drawing.Size(112, 246);
-            this.ct_boiler.TabIndex = 5;
             // 
             // label26
             // 
@@ -1544,6 +1535,20 @@
             this.pump_CircleState.Size = new System.Drawing.Size(77, 125);
             this.pump_CircleState.TabIndex = 9;
             // 
+            // ReadTimer
+            // 
+            this.ReadTimer.Interval = 300;
+            this.ReadTimer.Tick += new System.EventHandler(this.ReadTimer_Tick);
+            // 
+            // ct_boiler
+            // 
+            this.ct_boiler.BoilerLevel = 0F;
+            this.ct_boiler.BoilerState = false;
+            this.ct_boiler.Location = new System.Drawing.Point(770, 6);
+            this.ct_boiler.Name = "ct_boiler";
+            this.ct_boiler.Size = new System.Drawing.Size(112, 246);
+            this.ct_boiler.TabIndex = 5;
+            // 
             // valve_OutState
             // 
             this.valve_OutState.IsOpen = false;
@@ -1551,11 +1556,6 @@
             this.valve_OutState.Name = "valve_OutState";
             this.valve_OutState.Size = new System.Drawing.Size(66, 95);
             this.valve_OutState.TabIndex = 10;
-            // 
-            // ReadTimer
-            // 
-            this.ReadTimer.Interval = 300;
-            this.ReadTimer.Tick += new System.EventHandler(this.ReadTimer_Tick);
             // 
             // FrmMain
             // 

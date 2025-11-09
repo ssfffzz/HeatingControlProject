@@ -39,7 +39,22 @@ go
 create table Scandata
 (
 	ScandataId int identity(1,1) primary key,
-	ScandataDate datetime not null,
+	InsertTime datetime not null,
 	ScandataString varchar(100) not null 
 )
 go
+
+insert into Scandata(InsertTime,ScandataString) values('2025-11-1','111')
+insert into Scandata(InsertTime,ScandataString) values('2025-11-2','222')
+insert into Scandata(InsertTime,ScandataString) values('2025-11-3','333')
+
+select ScandataId,InsertTime,ScandataString from Scandata
+
+update Scandata set ScandataString='4444' where ScandataId=7 --后面要跟where具体修改哪一行
+
+delete from Scandata where ScandataId=7 --后面要跟where具体删除哪一行
+
+
+
+
+

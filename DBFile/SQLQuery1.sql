@@ -74,6 +74,21 @@ go
 use MISDB
 go
 
-insert into Department(DepartmentName) values('开发部'),('测试部')
+insert into Department(DepartmentName) values('开发部'),('测试部')--insert into 数据表名称(数据列) values(往数据列里面插入的值)
+
+insert into Post(PostName) values('开发工程师'),('测试工程师')
+
+insert into Employee(EmployeeName,Gender,NowAddress,IdNo,WeiXinNumber,PhoneNumber,OtherWork,EntryDate,PostId,DepartmentId) 
+values('小王','男','常州','111111111111111111','微信','123456789','暂无','25-11-1','10','10')
 
 select * from Department
+select * from Post
+select * from Employee
+select EmployeeName,Gender,NowAddress from Employee
+
+select EmployeeName,Gender,NowAddress,Post.PostId,PostName from Employee 
+inner join post on Employee.PostId=Post.PostId
+
+update Post set PostName='研发' where PostId=10
+delete from Post where PostId=11
+

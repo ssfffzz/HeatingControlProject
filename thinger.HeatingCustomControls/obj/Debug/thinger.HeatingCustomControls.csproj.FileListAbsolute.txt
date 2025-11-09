@@ -10,3 +10,15 @@ D:\【新阁教育全3册课程资料V7.0612】CSharp上位机与通信实战\�
 D:\【新阁教育全3册课程资料V7.0612】CSharp上位机与通信实战\练习程序\thinger.HeatingControlProject\thinger.HeatingCustomControls\obj\Debug\thinger.HeatingCustomControls.csproj.CopyComplete
 D:\【新阁教育全3册课程资料V7.0612】CSharp上位机与通信实战\练习程序\thinger.HeatingControlProject\thinger.HeatingCustomControls\obj\Debug\thinger.HeatingCustomControls.dll
 D:\【新阁教育全3册课程资料V7.0612】CSharp上位机与通信实战\练习程序\thinger.HeatingControlProject\thinger.HeatingCustomControls\obj\Debug\thinger.HeatingCustomControls.pdb
+C:\Users\yl\Desktop\C#初阶内容\thinger.HeatingControlProject\thinger.HeatingCustomControls\bin\Debug\thinger.HeatingCustomControls.dll
+C:\Users\yl\Desktop\C#初阶内容\thinger.HeatingControlProject\thinger.HeatingCustomControls\bin\Debug\thinger.HeatingCustomControls.pdb
+C:\Users\yl\Desktop\C#初阶内容\thinger.HeatingControlProject\thinger.HeatingCustomControls\bin\Debug\thinger.CommonControlLib.dll
+C:\Users\yl\Desktop\C#初阶内容\thinger.HeatingControlProject\thinger.HeatingCustomControls\obj\Debug\thinger.HeatingCustomControls.csproj.AssemblyReference.cache
+C:\Users\yl\Desktop\C#初阶内容\thinger.HeatingControlProject\thinger.HeatingCustomControls\obj\Debug\thinger.HeatingCustomControls.Properties.Resources.resources
+C:\Users\yl\Desktop\C#初阶内容\thinger.HeatingControlProject\thinger.HeatingCustomControls\obj\Debug\thinger.HeatingCustomControls.ThingerHCBoiler.resources
+C:\Users\yl\Desktop\C#初阶内容\thinger.HeatingControlProject\thinger.HeatingCustomControls\obj\Debug\thinger.HeatingCustomControls.ThingerHCValve.resources
+C:\Users\yl\Desktop\C#初阶内容\thinger.HeatingControlProject\thinger.HeatingCustomControls\obj\Debug\thinger.HeatingCustomControls.csproj.GenerateResource.cache
+C:\Users\yl\Desktop\C#初阶内容\thinger.HeatingControlProject\thinger.HeatingCustomControls\obj\Debug\thinger.HeatingCustomControls.csproj.CoreCompileInputs.cache
+C:\Users\yl\Desktop\C#初阶内容\thinger.HeatingControlProject\thinger.HeatingCustomControls\obj\Debug\thinger.HeatingCustomControls.csproj.CopyComplete
+C:\Users\yl\Desktop\C#初阶内容\thinger.HeatingControlProject\thinger.HeatingCustomControls\obj\Debug\thinger.HeatingCustomControls.dll
+C:\Users\yl\Desktop\C#初阶内容\thinger.HeatingControlProject\thinger.HeatingCustomControls\obj\Debug\thinger.HeatingCustomControls.pdb
